@@ -1,7 +1,4 @@
-﻿using System;
-using System.Runtime.CompilerServices;
-
-namespace MyFirstStepsInCoding
+﻿namespace MyFirstStepsInCoding
 {
     class Program
     {
@@ -9,7 +6,7 @@ namespace MyFirstStepsInCoding
         static void Main(string[] args)
         {
             double inch = double.Parse(Console.ReadLine());
-            double result = inch * 2.54; 
+            double result = inch * 2.54;
             Console.WriteLine(result);
         }
     }

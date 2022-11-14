@@ -1,7 +1,4 @@
-﻿using System;
-using System.Runtime.CompilerServices;
-
-namespace MyFirstStepsInCoding
+﻿namespace MyFirstStepsInCoding
 {
     class Program
     {
@@ -9,7 +6,7 @@ namespace MyFirstStepsInCoding
         static void Main(string[] args)
         {
             string name = Console.ReadLine();
-            Console.WriteLine("Hello, " + name+"!");
+            Console.WriteLine("Hello, " + name + "!");
         }
     }
 }

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Runtime.CompilerServices;
-
-
-namespace MyFirstStepsInCoding
+﻿namespace MyFirstStepsInCoding
 {
     class Program
     {
@@ -11,7 +7,7 @@ namespace MyFirstStepsInCoding
         {
             double rad = double.Parse(Console.ReadLine());
 
-            double result = rad*180/Math.PI;
+            double result = rad * 180 / Math.PI;
             Console.WriteLine(Math.Round(result));
         }
     }

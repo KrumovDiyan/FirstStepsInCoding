@@ -1,8 +1,4 @@
-﻿using System;
-using System.Runtime.CompilerServices;
-
-
-namespace MyFirstStepsInCoding
+﻿namespace MyFirstStepsInCoding
 {
     class Program
     {

@@ -1,7 +1,4 @@
-﻿using System;
-using System.Runtime.CompilerServices;
-
-namespace MyFirstStepsInCoding
+﻿namespace MyFirstStepsInCoding
 {
     class Program
     {
@@ -13,7 +10,7 @@ namespace MyFirstStepsInCoding
             int age = int.Parse(Console.ReadLine());
             string town = Console.ReadLine();
 
-            Console.WriteLine("You are "+ firstName + " " + lastName + ","+" a" +" "+age+"-"+"years old person from "+town+".");
+            Console.WriteLine("You are " + firstName + " " + lastName + "," + " a" + " " + age + "-" + "years old person from " + town + ".");
         }
     }
 }

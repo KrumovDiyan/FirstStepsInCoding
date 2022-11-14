@@ -1,14 +1,15 @@
 ﻿using System.Reflection;
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SpeedInformation")]
+[assembly: AssemblyTitle("ForLoops")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("DXC Technology")]
-[assembly: AssemblyProduct("SpeedInformation")]
+[assembly: AssemblyProduct("ForLoops")]
 [assembly: AssemblyCopyright("Copyright © DXC Technology 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("be090f3b-c0d3-479b-bcf7-6eabd1ca9aa7")]
+[assembly: Guid("27bddb2a-556c-4245-a828-6220c5ec751c")]
 
 // Version information for an assembly consists of the following four values:
 //

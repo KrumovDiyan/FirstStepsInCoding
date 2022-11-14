@@ -1,7 +1,4 @@
-﻿using System;
-using System.Runtime.CompilerServices;
-
-namespace MyFirstStepsInCoding
+﻿namespace MyFirstStepsInCoding
 {
     class Program
     {
@@ -10,7 +7,7 @@ namespace MyFirstStepsInCoding
         {
             for (int i = 1; i < 11; i++)
             {
-                Console.WriteLine   (i);
+                Console.WriteLine(i);
             }
         }
     }

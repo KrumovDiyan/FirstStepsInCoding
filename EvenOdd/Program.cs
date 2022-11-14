@@ -1,8 +1,4 @@
-﻿using System;
-using System.Runtime.CompilerServices;
-
-
-namespace MyFirstStepsInCoding
+﻿namespace MyFirstStepsInCoding
 {
     class Program
     {
@@ -15,7 +11,7 @@ namespace MyFirstStepsInCoding
                 Console.WriteLine("even");
             }
             else Console.WriteLine("odd");
-           
+
         }
     }
 }

@@ -1,15 +1,11 @@
-﻿using System;
-using System.Runtime.CompilerServices;
-
-
-namespace MyFirstStepsInCoding
+﻿namespace MyFirstStepsInCoding
 {
     class Program
     {
 
         static void Main(string[] args)
         {
-           string password = Console.ReadLine();
+            string password = Console.ReadLine();
             if (password == "s3cr3t!P@ssw0rd")
             {
                 Console.WriteLine("Welcome");
