@@ -51,3 +51,16 @@ function addToArray(nextItem) {
 
 }
 addToArray(5);
+
+var a, b;
+function comparationNumbers(a, b) {
+    if (a > b) {
+        true
+    } else {
+        if (a < b) {
+            return false;
+        }
+    }
+}
+comparationNumbers(3, 11);
+

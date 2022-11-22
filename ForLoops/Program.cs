@@ -28,16 +28,15 @@ namespace ForLoops
             /*string text = Console.ReadLine();
             int lengt = text.Length;
             Console.WriteLine("The lenght of the input text is: " + lengt + " and the text is: " + text);*/
-
+            
+            /*
             for (int i = 7; i < 997; i++)
             {
                 if (i%10 ==7)
                 {
                     Console.WriteLine(i);
                 }
-            }
-            
-
+            }*/
 
 
 
