@@ -31,8 +31,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		index.html = index.html
 		Lists.html = Lists.html
-		Script1.js = Script1.js
+		index_about.html = index_about.html
 		Objects.js = Objects.js
+		Script1.js = Script1.js
+		StyleSheet.css = StyleSheet.css
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedInformation", "SpeedInformation\SpeedInformation.csproj", "{BE090F3B-C0D3-479B-BCF7-6EABD1CA9AA7}"

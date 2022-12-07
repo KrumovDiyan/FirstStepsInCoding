@@ -15,3 +15,16 @@ myCar.kw = "400";
 //delete property
 delete myCar.kw;
 
+
+class Building() {
+    floor = "2";
+    building = "name";
+}
+console.log(floor)
+
+/* Spred Operator */
+
+const nummber = [1, 2, 3];
+const newNumber = [...nummber, 4, 5, 6, 7];
+console.log(newNumber);
+
