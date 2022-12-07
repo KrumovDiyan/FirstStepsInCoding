@@ -24,7 +24,23 @@ console.log(floor)
 
 /* Spred Operator */
 
+
 const nummber = [1, 2, 3];
 const newNumber = [...nummber, 4, 5, 6, 7];
 console.log(newNumber);
+
+const person = {
+    name: "Dido",
+    age: "30"
+}
+const newPerson = {
+    ...person,
+    height:"200cm"
+}
+
+/* array map */
+
+const firstArray = [1, 2, 3];
+const secondArray = firstArray.map((num) => { return num * 2; })
+console.log(secondArray);
 
